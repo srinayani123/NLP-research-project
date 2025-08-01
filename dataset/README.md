@@ -1,0 +1,1 @@
+We found this dataset at: https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification/data which is under CC0 License. The file is too big to upload in here. The processed files are big to upload too.
